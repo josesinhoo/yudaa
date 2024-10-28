@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Your Business</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+<div class="logo">Your Logo</div>
+<nav>
+<ul>
+<li><a href="#home">Home</a></li>
+<li><a href="#about">About Us</a></li>
+<li><a href="#projects">Projects</a></li>
+<li><a href="#contact">Contact</a></li>
+</ul>
+</nav>
+</header>
+ 
+    <section id="hero">
+<div class="hero-content">
+<h1>Boost image, enhance success.</h1>
+<p>Explore the technology and make your company more attractive with us.</p>
+</div>
+</section>
+ 
+    <section id="services">
+<h2>Our Services</h2>
+<div class="service-card">
+<h3>Yudá</h3>
+<p>Where creativity meets strategy to take your business to the next level. Our services are designed to empower your company and help you achieve success.</p>
+<a href="#">Show more</a>
+</div>
+<div class="service-card">
+<h3>Our Projects</h3>
+<p>We are proud of the projects we have successfully completed. Each project represents our dedication, excellence, and commitment to our clients.</p>
+<a href="#">Explore</a>
+</div>
+<div class="service-card">
+<h3>Our Customers</h3>
+<p>Our clients are our greatest motivation. Our services are designed to empower your company and help you achieve success.</p>
+<a href="#">Show more</a>
+</div>
+</section>
+ 
+    <section id="about">
+<h2>About Us</h2>
+<p>We are a company that uses marketing to promote small businesses, implementing innovative ideas and strategies to make your brand better known and successful.</p>
+<a href="#">Discover more</a>
+</section>
+ 
+    <section id="testimonials">
+<h2>Testimonials</h2>
+<blockquote>
+            "I am delighted with the results Yudá has achieved for my company. Their strategic approach and deep knowledge of the market have helped us grow."
+</blockquote>
+</section>
+ 
+    <footer>
+<p>&copy; 2024 Your Business. All Rights Reserved.</p>
+</footer>
+</body>
+</html>
